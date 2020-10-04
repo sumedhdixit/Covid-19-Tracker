@@ -1,0 +1,9 @@
+.Dev {
+    justify-content: center;
+    color: black;
+    font-size: large;
+    padding-right: 40px;
+}
+.Name {
+    color: linear-gradient(to left #000000, #ffffff);
+}
